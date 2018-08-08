@@ -1,5 +1,4 @@
 import SlapService from './SlapService.js'
-import Target from './model/Target.js';
 console.log('hello from SlapController.js');
 
 //Private
